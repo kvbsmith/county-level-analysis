@@ -1,0 +1,144 @@
+Predictor Name,Predictor Description,Data Source
+SE_A00002_001,Total Population,"ACS 5-year estimates ""2014-2018"""
+SE_A00002_002,Population Density (Per Sq. Mile),"ACS 5-year estimates ""2014-2018"""
+SE_A00002_003,Area (Land),"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A02001_002,% Total Population: Male,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A02001_003,% Total Population: Female,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_002,% Total Population: Under 5 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_003,% Total Population: 5 to 9 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_004,% Total Population: 10 to 14 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_005,% Total Population: 15 to 17 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_006,% Total Population: 18 to 24 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_007,% Total Population: 25 to 34 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_008,% Total Population: 35 to 44 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_009,% Total Population: 45 to 54 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_010,% Total Population: 55 to 64 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_011,% Total Population: 65 to 74 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_012,% Total Population: 75 to 84 Years,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A01001_013,% Total Population: 85 Years and Over,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A03001_002,% Total Population: White Alone,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A03001_003,% Total Population: Black or African American Alone,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A03001_004,% Total Population: American Indian and Alaska Native Alone,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A03001_005,% Total Population: Asian Alone,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A03001_006,% Total Population: Native Hawaiian and Other Pacific Islander Alone,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A03001_007,% Total Population: Some Other Race Alone,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A03001_008,% Total Population: Two or More Races,"ACS 5-year estimates ""2014-2018"""
+SE_A10008_001,Households:,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10008_002,% Households: Family Households,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10008_003,% Households: Family Households: Married-Couple Family,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10008_004,% Households: Family Households: Other Family,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10008_005,"% Households: Family Households: Other Family: Male Householder, No Wife Present","ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10008_006,"% Households: Family Households: Other Family: Female Householder, No Husband Present","ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10008_007,% Households: Nonfamily Households,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10008_008,% Households: Nonfamily Households: Male Householder,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10008_009,% Households: Nonfamily Households: Female Householder,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10002B_002,% Renter-Occupied Housing Units: 1-Person Household,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10002B_003,% Renter-Occupied Housing Units: 2-Person Household,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10002B_004,% Renter-Occupied Housing Units: 3-Person Household,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10002B_005,% Renter-Occupied Housing Units: 4-Person Household,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10002B_006,% Renter-Occupied Housing Units: 5-Person Household,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10002B_007,% Renter-Occupied Housing Units: 6-Person Household,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A10002B_008,% Renter-Occupied Housing Units: 7-or-More Person Household,"ACS 5-year estimates ""2014-2018"""
+SE_A10003_001,Average Household Size,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A12001_002,% Population 25 Years and Over: Less than High School,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A12001_003,% Population 25 Years and Over: High School Graduate (Includes Equivalency),"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A12001_004,% Population 25 Years and Over: Some College,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A12001_005,% Population 25 Years and Over: Bachelor's Degree,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A12001_006,% Population 25 Years and Over: Master's Degree,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A12001_007,% Population 25 Years and Over: Professional School Degree,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A12001_008,% Population 25 Years and Over: Doctorate Degree,"ACS 5-year estimates ""2014-2018"""
+SE_A14006_001,Median Household Income (In 2018 Inflation Adjusted Dollars),"ACS 5-year estimates ""2014-2018"""
+SE_A14024_001,Per Capita Income (In 2018 Inflation Adjusted Dollars),"ACS 5-year estimates ""2014-2018"""
+SE_A18009_001,Median Gross Rent,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_002,"% Workers 16 Years and Over: Car, Truck, or Van","ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_009,% Workers 16 Years and Over: Drove Alone,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_010,% Workers 16 Years and Over: Carpooled,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_003,% Workers 16 Years and Over: Public Transportation (Includes Taxicab),"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_004,% Workers 16 Years and Over: Motorcycle,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_005,% Workers 16 Years and Over: Bicycle,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_006,% Workers 16 Years and Over: Walked,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_007,% Workers 16 Years and Over: Other Means,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09005_008,% Workers 16 Years and Over: Worked At Home,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_002,% Workers 16 Years and Over: Did Not Work At Home,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_003,% Workers 16 Years and Over: Did Not Work At Home: Less than 10 Minutes,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_004,% Workers 16 Years and Over: Did Not Work At Home: 10 to 19 Minutes,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_005,% Workers 16 Years and Over: Did Not Work At Home: 20 to 29 Minutes,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_006,% Workers 16 Years and Over: Did Not Work At Home: 30 to 39 Minutes,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_007,% Workers 16 Years and Over: Did Not Work At Home: 40 to 59 Minutes,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_008,% Workers 16 Years and Over: Did Not Work At Home: 60 to 89 Minutes,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_009,% Workers 16 Years and Over: Did Not Work At Home: 90 or More Minutes,"ACS 5-year estimates ""2014-2018"""
+PCT_SE_A09001_010,% Workers 16 Years and Over: Worked At Home,"ACS 5-year estimates ""2014-2018"""
+SE_T001_001,Physically Unhealthy Days per Month (Persons 18 Years and Over),Health Data 2020 Release
+SE_T001_002,Mentally Unhealthy Days per Month (Persons 18 Years and Over),Health Data 2020 Release
+SE_T006_001,"Percent of Persons Without Insurance (Population Under 19 Years, 2013 est.)",Health Data 2020 Release
+SE_T006_003,"Percent of Persons Without Insurance (Population Under 65 Years, 2013 est.)",Health Data 2020 Release
+SE_NV006_003,"Premature Age-adjusted Mortality Rate per 100,000 Population",Health Data 2020 Release
+SE_T009_001,Percent Diabetics (Adults),Health Data 2020 Release
+SE_T011_001,Percent Current Smokers (Persons 18 Years and Over),Health Data 2020 Release
+SE_T011_002,Percent Drinking Adults (Persons 18 Years and Over),Health Data 2020 Release
+SE_T012_001,Percent of Persons with Limited Access to Healthy Foods,Health Data 2020 Release
+SE_T012_002,Percent of Persons with Access to Exercise Opportunities,Health Data 2020 Release
+SE_T012_003,Percent Obese Persons (20 Years and Over),Health Data 2020 Release
+SE_T012_004,Percent Percent Physically Inactive Persons (20 Years and Over),Health Data 2020 Release
+SE_T012_005,Percent of Children Eligible for Free Lunch (Persons < 18 Years),Health Data 2020 Release
+SE_T013_001,Food Environment Index,Health Data 2020 Release
+SE_T016_001,Air Pollution Particulate Matter Average Daily Pm2.5,Health Data 2020 Release
+SE_T016_002,Presence of Drinking Water Violations,Health Data 2020 Release
+SE_T016_003,Percentage of Households with Severe Housing Problems,Health Data 2020 Release
+SE_T016_004,Percentage of Households with High Housing Costs,Health Data 2020 Release
+SE_T016_005,Percentage of Households with Overcrowding,Health Data 2020 Release
+SE_T016_006,Percentage of Households with Lack of Kitchen or Plumbing Facilities,Health Data 2020 Release
+SE_T016_007,Percent of Driving Alone to Work,Health Data 2020 Release
+SE_T016_009,Percent of Long Commute Driving Alone Workers Who Drive Alone,Health Data 2020 Release
+min_dist,Minimum distance to an airport with scheduled service,https://data.humdata.org/dataset/ourairports-usa
+RPL_THEME1,Socioeconomic ,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+RPL_THEME2,Household Composition & Disability,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+RPL_THEME3,Minority Status & Language,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+RPL_THEME4,Housing Type & Transportation,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+RPL_THEMES,Overall tract summary ranking variable,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+Jan.Precipitation...inch,Jan Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Feb.Precipitation...inch,Feb Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Mar.Precipitation...inch,Mar Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Apr.Precipitation...inch,Apr Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+May.Precipitation...inch,May Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Jun.Precipitation...inch,Jun Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Jul.Precipitation...inch,Jul Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Aug.Precipitation...inch,Aug Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Sep.Precipitation...inch,Sep Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Oct.Precipitation...inch,Oct Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Nov.Precipitation...inch,Nov Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Dec.Precipitation...inch,Dec Precipitation / inch,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Jan.Temp.AVG...F,Jan Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Feb.Temp.AVG...F,Feb Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Mar.Temp.AVG...F,Mar Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Apr.Temp.AVG...F,Apr Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+May.Temp.AVG...F,May Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Jun.Temp.AVG...F,Jun Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Jul.Temp.AVG...F,Jul Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Aug.Temp.AVG...F,Aug Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Sep.Temp.AVG...F,Sep Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Oct.Temp.AVG...F,Oct Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Nov.Temp.AVG...F,Nov Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+Dec.Temp.AVG...F,Dec Temp AVG / F,https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/tree/master/data
+f1467517,"Primary care physicians, No. per 10 000 population",https://data.hrsa.gov/data/download?data=AHRF#AHRF
+f0892117,"Hospital beds, No. per 1000 population",https://data.hrsa.gov/data/download?data=AHRF#AHRF
+life_exp_col,"Life expectancy, ",https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html
+EP_POV,"Poverty rate, % under federal poverty level",https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_UNEMP,Unemployment rate,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_PCI,"Per capita income, scaled to multiple of ",https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_NOHSDP,"Education, % age ?25 y with no high school degree",https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_AGE65,Percent aged ?65,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_AGE17,Percent aged ?17 ,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_SNGPNT,Single parent household,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_DISABL,People with disability (noninstitutionalized),https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_MINRTY,Any racial/ethnic minority,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_LIMENG,Limited English proficiency,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_MUNIT,Housing in structures with ?10 units,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_MOBILE,Mobile homes,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_CROWD,Occupied housing units people > rooms,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_NOVEH,Households without vehicle,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+EP_GROUPQ,People in institutionalized group residences,https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+S2701_C05_012E,Adults without health insurance,"ACS 5-year estimates ""2014-2018"""
+S0801_C01_009E,Workers age ?16 y using public transport to commute,"ACS 5-year estimates ""2014-2018"""
+2018 Food Insecurity Rate,People lacking access to adequate food,https://www.feedingamerica.org/research/map-the-meal-gap/by-county?s_src=WXXX1MTMG&_ga=2.212890580.1553729392.1626724343-2103449612.1625350637
+all_icu,"Intensive care unit beds, No. per 10 000 population ",https://khn.org/news/as-coronavirus-spreads-widely-millions-of-older-americans-live-in-counties-with-no-icu-beds/

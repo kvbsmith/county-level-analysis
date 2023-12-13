@@ -1,0 +1,6 @@
+Model,Val ROC_AUC,Precision @ 50,Precision @ 100,Recall @ 50,Recall @ 100
+Random Forest,0.583114122,0.58,0.48,0.2,0.26
+Logistic Regression - Stepwise,0.607745007,0.38,0.39,0.3,0.33
+SGBAP,0.595145172,0.44,0.37,0.32,0.36
+Pop. Density,0.587604636,0.38,0.36,0.12,0.2
+Alpha Cases,0.554948815,0.48,0.41,0.2,0.26
