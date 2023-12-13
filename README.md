@@ -1,5 +1,5 @@
 # county-level-analysis
-Data and Analysis Files for manuscript
+Data and Analysis Files for manuscript titled, "Can Past Variants of SARS-CoV-2 Predict the Impact of Future Variants? Machine Learning for Early Warning of US Counties at Risk".
 
 The sections of this repository are organized inside of emerging-covid-ml as follows.
 
